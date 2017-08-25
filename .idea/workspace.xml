@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9300c6e-e4aa-44c9-bfa5-3bf4b03429fe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/documentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/resources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/sample-posts.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/facts.html" afterPath="$PROJECT_DIR$/pages/facts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -323,6 +320,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

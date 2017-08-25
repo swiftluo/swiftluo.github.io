@@ -1,137 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<channel>
-		<title>swiftluo</title>
-		<description>赵田的博客</description>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>Welcome to Millennial!</title>
-				
-				
-					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-25T14:26:01+08:00</updated><id>http://localhost:4000/</id><title type="html">{{ site.data.settings.title }} | {{ site.data.settings.tagline }}</title><entry><title type="html">Jekyll Theme - Project Gaia</title><link href="http://localhost:4000/intro/helloworld.html" rel="alternate" type="text/html" title="Jekyll Theme - Project Gaia" /><published>2017-02-05T00:00:00+08:00</published><updated>2017-02-05T00:00:00+08:00</updated><id>http://localhost:4000/intro/helloworld</id><content type="html" xml:base="http://localhost:4000/intro/helloworld.html">&lt;h2 id=&quot;desc&quot;&gt;Desc&lt;/h2&gt;
 
-</description>
-				
-				<pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/documentation/Welcome-to-Millennial.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Welcome-to-Millennial.html</guid>
-			</item>
-		
-			<item>
-				<title>Installation Guide</title>
-				
-				
-					<description>&lt;p&gt;Millennial is a Jekyll theme that was built to be 100% compatible with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. If you are unfamiliar with GitHub Pages, you can check out &lt;a href=&quot;https://help.github.com/categories/github-pages-basics/&quot;&gt;their documentation&lt;/a&gt; for more information. &lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Jonathan McGlone’s guide&lt;/a&gt; on creating and hosting a personal site on GitHub is also a good resource.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This post is only for demo, some contents may be archived.&lt;/p&gt;
 
-</description>
-				
-				<pubDate>Mon, 12 Dec 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/documentation/Installation-Guide.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Installation-Guide.html</guid>
-			</item>
-		
-			<item>
-				<title>Working With Jekyll</title>
-				
-				
-					<description>&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+  &lt;p&gt;Please check document for newest details:  &lt;a href=&quot;https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/&quot;&gt; Document&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-</description>
-				
-				<pubDate>Fri, 11 Nov 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/documentation/Working-With-Jekyll.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Working-With-Jekyll.html</guid>
-			</item>
-		
-			<item>
-				<title>Working With Millennial</title>
-				
-				
-					<description>&lt;p&gt;Millennial was designed to be a minimalist theme in order for the focus to remain on your content.&lt;/p&gt;
+&lt;h2 id=&quot;update-history&quot;&gt;Update History&lt;/h2&gt;
 
-</description>
-				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/documentation/Working-With-Millennial.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/Working-With-Millennial.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting</title>
-				
-				
-					<description>&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;May 30th, 2017
+Added a reading progressbar for post page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;May 6th, 2017
+Updated font page
+Added global font style&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;April 3nd, 2017
+Added new font&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mar 5th, 2017
+Updated style&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mar 1st, 2017
+Updated TOC plugin&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feb 28th, 2017
+Rebuild to include &lt;strong&gt;Bootstrap 4-Alpha&lt;/strong&gt; and &lt;strong&gt;JQuery 3&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-</description>
-				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/sample/Text-Formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/Text-Formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>Math and Code Formatting</title>
-				
-				
-					<description>&lt;p&gt;Millennial comes out of the box with &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; and syntax highlighting through &lt;a href=&quot;https://help.github.com/articles/creating-and-highlighting-code-blocks/&quot;&gt;fenced code blocks&lt;/a&gt;. MathJax allows you to display mathematical equations in your posts through the use of &lt;a href=&quot;http://www.andy-roberts.net/writing/latex/mathematics_1&quot;&gt;LaTeX&lt;/a&gt;. Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed.&lt;/p&gt;
+&lt;h2 id=&quot;desc-1&quot;&gt;Desc&lt;/h2&gt;
 
-</description>
-				
-				<pubDate>Mon, 08 Aug 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/sample/Math-and-Code-Formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/Math-and-Code-Formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>Death to Stock</title>
-				
-				
-					<description>&lt;p&gt;All of the beautiful photos that you see used on this demo site have been taken from &lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to Stock&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/resources/Death-to-Stock.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/Death-to-Stock.html</guid>
-			</item>
-		
-			<item>
-				<title>Free Code Camp</title>
-				
-				
-					<description>&lt;p&gt;Interested in learning how to code? If you are interested in doing web development, check out &lt;a href=&quot;https://www.freecodecamp.com/&quot;&gt;Free Code Camp&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 06 Jun 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/resources/Freecodecamp.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/Freecodecamp.html</guid>
-			</item>
-		
-			<item>
-				<title>Khan Academy</title>
-				
-				
-					<description>&lt;p&gt;A great resource for learning a variety of topics, including mathematics, web development, coding, and topics in computer science such as algorithms, is &lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 05 May 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/resources/Khan-Academy.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/Khan-Academy.html</guid>
-			</item>
-		
-			<item>
-				<title>About the Author</title>
-				
-				
-					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Below is a compilation of some of my favourite things that I have built over the years. You may find everything else on my &lt;a href=&quot;http://github.com/lenpaul&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;https://codepen.io/lenpaul&quot; target=&quot;_blank&quot;&gt;Code Pen&lt;/a&gt; profiles.&lt;/p&gt;
+&lt;p&gt;This is a personal blog source code.&lt;/p&gt;
 
-</description>
-				
-				<pubDate>Mon, 04 Apr 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/facts/About-the-Author.html</link>
-				<guid isPermaLink="true">http://localhost:4000/facts/About-the-Author.html</guid>
-			</item>
-		
-	</channel>
-</rss>
+&lt;p&gt;The theme name is ‘Project Gaia’, cuz I have another under building project named ‘Project Uranus’ o(&lt;em&gt;￣▽￣&lt;/em&gt;)o&lt;/p&gt;
+
+&lt;p&gt;repo link: &lt;a href=&quot;https://github.com/szhielelp/JekyllTheme-ProjectGaia&quot;&gt;szhielelp/JekyllTheme-ProjectGaia&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;post-example&quot;&gt;Post Example&lt;/h2&gt;
+
+&lt;p&gt;Here is a post example&lt;/p&gt;
+
+&lt;p&gt;[Please check the code in Markdown]&lt;/p&gt;
+
+&lt;h2 id=&quot;plugins&quot;&gt;Plugins&lt;/h2&gt;
+
+&lt;h3 id=&quot;syntaxhighlighter&quot;&gt;SyntaxHighlighter&lt;/h3&gt;
+
+&lt;p&gt;Realized with this repo: &lt;a href=&quot;https://github.com/syntaxhighlighter/syntaxhighlighter&quot;&gt;    syntaxhighlighter/syntaxhighlighter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Usage(include necessary CSS and JS and run &lt;strong&gt;SyntaxHighlighter.all()&lt;/strong&gt;):&lt;/p&gt;
+
+&lt;pre class=&quot;brush: html&quot;&gt;
+      SyntaxHighlighter.all();
+&lt;/pre&gt;
+
+&lt;p&gt;Here is code snippet example:&lt;/p&gt;
+
+&lt;pre class=&quot;brush: html&quot;&gt;
+    [please check the post markdown here]
+    &lt;ul&gt;
+      &lt;li class=&quot;headerlink&quot;&gt;
+        &lt;a class=&quot;content active&quot;&gt;List&lt;/a&gt;
+        &lt;a class=&quot;link inactived&quot;&gt;Link&lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/pre&gt;
+
+&lt;h3 id=&quot;table-of-content&quot;&gt;Table of Content&lt;/h3&gt;
+
+&lt;p&gt;Realized with this repo: &lt;a href=&quot;https://github.com/jgallen23/toc&quot;&gt;    jgallen23/toc  &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/X2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Auto-run when page loaded.&lt;/p&gt;
+
+&lt;h3 id=&quot;md-post-header-collapse&quot;&gt;md-post-header-collapse&lt;/h3&gt;
+
+&lt;p&gt;Realized with this repo: &lt;a href=&quot;https://github.com/szhielelp/md-post-header-collapse&quot;&gt;    szhielelp/md-post-header-collapse  &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Run &lt;strong&gt;$.headerCollapseRobot()&lt;/strong&gt; after post loaded.&lt;/p&gt;
+
+&lt;pre class=&quot;brush: js&quot;&gt;
+    /*header collapsible example*/
+    $.headerCollapseRobot(
+      arr_Id_CollapseEnds =  new Array(&quot;end&quot;),                       
+      arr_Collapsible_Tag = new Array(&quot;H1&quot;,&quot;H2&quot;,&quot;H3&quot;),                       
+      arr_ExcludeElemPrefix_InCollapsible  = new Array(&quot;comment-&quot;),      
+      arr_ExcludeElemPrefix_InCollapsing = new Array(&quot;sidebar-toc-Ik4D-&quot;)
+    )
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/X1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try clicking on the icons near titles.&lt;/p&gt;
+
+&lt;h3 id=&quot;stickie-post&quot;&gt;Stickie Post&lt;/h3&gt;
+
+&lt;p&gt;Just put a attribute in header of the specific post:&lt;/p&gt;
+
+&lt;pre class=&quot;brush: html; highlight: [5]&quot;&gt;
+layout: post
+title: blablablalala
+category : Comic
+tags : [Comic, 10101]
+stickie: true
+&lt;/pre&gt;
+
+&lt;p&gt;Then current post will show ahead of other posts.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-progressbar&quot;&gt;Reading Progressbar&lt;/h3&gt;
+
+&lt;p&gt;Inspired from &lt;a href=&quot;http://es6.ruanyifeng.com/#docs/promise&quot;&gt;http://es6.ruanyifeng.com/#docs/promise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/X4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It will show your reading progress for current post.&lt;/p&gt;</content><author><name></name></author><category term="Intro" /><category term="intro" /><category term="tag1" /><category term="tag2" /><summary type="html">Desc</summary></entry><entry><title type="html">Demo Post</title><link href="http://localhost:4000/intro/demopost3.html" rel="alternate" type="text/html" title="Demo Post" /><published>2017-02-05T00:00:00+08:00</published><updated>2017-02-05T00:00:00+08:00</updated><id>http://localhost:4000/intro/demopost3</id><content type="html" xml:base="http://localhost:4000/intro/demopost3.html">&lt;h2 id=&quot;demo-post&quot;&gt;Demo Post&lt;/h2&gt;
+
+&lt;p&gt;Texts here….&lt;/p&gt;</content><author><name></name></author><category term="Intro" /><category term="intro" /><category term="tag1" /><category term="tag2" /><summary type="html">Demo Post</summary></entry><entry><title type="html">Stickie Post</title><link href="http://localhost:4000/intro/demopost4.html" rel="alternate" type="text/html" title="Stickie Post" /><published>2017-02-03T00:00:00+08:00</published><updated>2017-02-03T00:00:00+08:00</updated><id>http://localhost:4000/intro/demopost4</id><content type="html" xml:base="http://localhost:4000/intro/demopost4.html">&lt;h2 id=&quot;demo-post&quot;&gt;Demo Post&lt;/h2&gt;
+
+&lt;p&gt;Texts here….&lt;/p&gt;</content><author><name></name></author><category term="Intro" /><category term="intro" /><category term="tag1" /><category term="tag2" /><summary type="html">Demo Post</summary></entry><entry><title type="html">Demo Post</title><link href="http://localhost:4000/intro/demopost2.html" rel="alternate" type="text/html" title="Demo Post" /><published>2017-02-02T00:00:00+08:00</published><updated>2017-02-02T00:00:00+08:00</updated><id>http://localhost:4000/intro/demopost2</id><content type="html" xml:base="http://localhost:4000/intro/demopost2.html">&lt;h2 id=&quot;demo-post&quot;&gt;Demo Post&lt;/h2&gt;
+
+&lt;p&gt;Texts here….&lt;/p&gt;</content><author><name></name></author><category term="Intro" /><category term="intro" /><category term="tag1" /><category term="tag2" /><summary type="html">Demo Post</summary></entry><entry><title type="html">Demo Post</title><link href="http://localhost:4000/intro/demopost.html" rel="alternate" type="text/html" title="Demo Post" /><published>2017-02-01T00:00:00+08:00</published><updated>2017-02-01T00:00:00+08:00</updated><id>http://localhost:4000/intro/demopost</id><content type="html" xml:base="http://localhost:4000/intro/demopost.html">&lt;h2 id=&quot;demo-post&quot;&gt;Demo Post&lt;/h2&gt;
+
+&lt;p&gt;Texts here….&lt;/p&gt;</content><author><name></name></author><category term="Intro" /><category term="intro" /><category term="tag1" /><category term="tag2" /><summary type="html">Demo Post</summary></entry></feed>
