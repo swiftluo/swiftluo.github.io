@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Theme - Project Gaia
+title: Jekyll Theme - Hello , Welcome to my blog !
 category : Intro
 tags : [intro, tag1, tag2]
 stickie: true
@@ -38,9 +38,9 @@ Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
 
 This is a personal blog source code.
 
-The theme name is 'Project Gaia', cuz I have another under building project named 'Project Uranus' o(*￣▽￣*)o
+The theme name is 'Hello , Welcome to my blog !', cuz I have another under building project named 'Project Uranus' o(*￣▽￣*)o
 
-repo link: [szhielelp/JekyllTheme-ProjectGaia](https://github.com/szhielelp/JekyllTheme-ProjectGaia)
+repo link: [szhielelp/JekyllTheme-ProjectGaia](https://github.com/swiftluo/swiftluo.github.io)
 
 ## Post Example
 
