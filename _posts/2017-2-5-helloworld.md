@@ -40,7 +40,7 @@ This is a personal blog source code.
 
 The theme name is 'Hello , Welcome to my blog !', cuz I have another under building project named 'Project Uranus' o(*￣▽￣*)o
 
-repo link: [szhielelp/JekyllTheme-ProjectGaia](https://github.com/swiftluo/swiftluo.github.io)
+repo link: [szhielelp/JekyllTheme-ProjectGaia](http://localhost:4000)
 
 ## Post Example
 
