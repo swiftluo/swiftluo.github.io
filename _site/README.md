@@ -1,4 +1,4 @@
-# Hello , Welcome to my blog !
+# Curiosity and the power of change
 
 ## Documents
 

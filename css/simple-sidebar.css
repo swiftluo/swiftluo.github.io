@@ -43,7 +43,7 @@
 #wrapper.toggled #sidebar-wrapper {
     width: 250px;
     margin-right: 0px;
-    opacity: 1;
+    opacity: 0.8;
     visibility: visible;
 }
 
@@ -76,7 +76,7 @@
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999999;
+    color: rgb(255, 255, 255);
     padding-left: 20px;
     padding-right: 20px;
 }
